@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/siljehanotangen/Documents/REST API/AdminDevicesAPI/AdminDevicesAPI.Tests/AdminDevicesAPI.Tests.csproj": {}
+    "/Users/siljehanotangen/Documents/Ignite/AdminDevicesAPI/AdminDevicesAPI.Tests/AdminDevicesAPI.Tests.csproj": {}
   },
   "projects": {
-    "/Users/siljehanotangen/Documents/REST API/AdminDevicesAPI/AdminDevicesAPI.csproj": {
+    "/Users/siljehanotangen/Documents/Ignite/AdminDevicesAPI/AdminDevicesAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/siljehanotangen/Documents/REST API/AdminDevicesAPI/AdminDevicesAPI.csproj",
+        "projectUniqueName": "/Users/siljehanotangen/Documents/Ignite/AdminDevicesAPI/AdminDevicesAPI.csproj",
         "projectName": "AdminDevicesAPI",
-        "projectPath": "/Users/siljehanotangen/Documents/REST API/AdminDevicesAPI/AdminDevicesAPI.csproj",
+        "projectPath": "/Users/siljehanotangen/Documents/Ignite/AdminDevicesAPI/AdminDevicesAPI.csproj",
         "packagesPath": "/Users/siljehanotangen/.nuget/packages/",
-        "outputPath": "/Users/siljehanotangen/Documents/REST API/AdminDevicesAPI/obj/",
+        "outputPath": "/Users/siljehanotangen/Documents/Ignite/AdminDevicesAPI/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/siljehanotangen/.nuget/NuGet/NuGet.Config"
@@ -115,14 +115,14 @@
         }
       }
     },
-    "/Users/siljehanotangen/Documents/REST API/AdminDevicesAPI/AdminDevicesAPI.Tests/AdminDevicesAPI.Tests.csproj": {
+    "/Users/siljehanotangen/Documents/Ignite/AdminDevicesAPI/AdminDevicesAPI.Tests/AdminDevicesAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/siljehanotangen/Documents/REST API/AdminDevicesAPI/AdminDevicesAPI.Tests/AdminDevicesAPI.Tests.csproj",
+        "projectUniqueName": "/Users/siljehanotangen/Documents/Ignite/AdminDevicesAPI/AdminDevicesAPI.Tests/AdminDevicesAPI.Tests.csproj",
         "projectName": "AdminDevicesAPI.Tests",
-        "projectPath": "/Users/siljehanotangen/Documents/REST API/AdminDevicesAPI/AdminDevicesAPI.Tests/AdminDevicesAPI.Tests.csproj",
+        "projectPath": "/Users/siljehanotangen/Documents/Ignite/AdminDevicesAPI/AdminDevicesAPI.Tests/AdminDevicesAPI.Tests.csproj",
         "packagesPath": "/Users/siljehanotangen/.nuget/packages/",
-        "outputPath": "/Users/siljehanotangen/Documents/REST API/AdminDevicesAPI/AdminDevicesAPI.Tests/obj/",
+        "outputPath": "/Users/siljehanotangen/Documents/Ignite/AdminDevicesAPI/AdminDevicesAPI.Tests/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/siljehanotangen/.nuget/NuGet/NuGet.Config"
@@ -137,8 +137,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/siljehanotangen/Documents/REST API/AdminDevicesAPI/AdminDevicesAPI.csproj": {
-                "projectPath": "/Users/siljehanotangen/Documents/REST API/AdminDevicesAPI/AdminDevicesAPI.csproj"
+              "/Users/siljehanotangen/Documents/Ignite/AdminDevicesAPI/AdminDevicesAPI.csproj": {
+                "projectPath": "/Users/siljehanotangen/Documents/Ignite/AdminDevicesAPI/AdminDevicesAPI.csproj"
               }
             }
           }
