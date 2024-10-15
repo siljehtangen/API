@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "QovRb/sVP9soVn3k4fbPo0dTcIDDsNzzrtqufNZ5AyA=",
+  "Source": "AdminDevicesAPI",
+  "BasePath": "_content/AdminDevicesAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
