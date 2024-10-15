@@ -1,0 +1,6 @@
+@AdminDevicesAPI_HostAddress = http://localhost:5220
+
+GET {{AdminDevicesAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
